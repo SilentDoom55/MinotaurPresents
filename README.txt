@@ -1,0 +1,3 @@
+This code was written for .NET 6 and can be run by the command 'dotnet run Program.cs'
+
+This program is highly customizable with changing the number of servants (threads) as well as presents recieved. Through testing various numbers for both of these values, the program always ended with the correct number of "Thank You's" as well as having no presents remaining in either the Bag or the Present Linked List. Additionally, using the parameters given in the assignment (4 servants, 500000 presents), the program executed fully in less than a minute. As such, I believe this program to be fully functional and efficient.
